@@ -1,0 +1,179 @@
+*{
+box-sizing: border-box;
+font-family: sans-serif;
+}
+body{
+    background-color: #f1f4f8;
+}
+.cont{
+width: 90%;
+margin: auto;
+}
+.wid-mar{
+width: 60%;
+margin: auto;
+}
+.first-sec{
+margin: 30px auto ;
+background-color: #1E4F82;
+border-radius: 18px;
+text-align: center;
+padding: 30px 20px;
+}
+.john{
+color: #ffffff;
+font-size: 40px;
+margin-bottom: 20px;
+}
+.front{
+color: #a8c6e2;
+margin-bottom: 25px;
+}
+.first-buttons{
+background-color: rgba(255, 255, 255, 0.1);
+color: #ffffff;
+border-radius: 20px;
+margin-top: 10px;
+padding: 10px 15px;
+border: 0;
+margin-left: 3px;   
+margin-right: 3px;
+}
+/* about-section */
+.about{
+background-color:#ffffff ;
+margin: 30px auto;
+border-radius: 12px;
+padding: 15px 0;
+}
+.title{
+color: #003370;
+padding-bottom: 10px;
+border-bottom: 2px solid #d6e4f0;
+padding-bottom: 12px;
+}
+.about img{
+width: 80%;
+height: 80%;
+border-radius: 50%;
+}
+.cir-img{
+float: left;
+width: 25%;
+}
+.cir-img img{
+border: 3px solid hsl(186, 77%, 95%);
+box-shadow: 0 4px 15px rgba(0, 0, 0, 0.20);
+}
+.info{
+float: left;
+width: 75%;
+}
+.clear-fix{
+clear: both;
+}
+.info p{
+color: #363535;
+font-size: 16px;
+}
+.info span {
+color: #277cbd;
+font-weight: bold;
+}
+.info button {
+background-color: #0b65ad;
+color: #ffffff;
+border: 0;
+padding: 13px 22px;
+border-radius: 8px;
+font-size: 14px;
+}
+/* skills-section */
+.skills{
+background-color:#ffffff ;
+margin: 30px auto;
+border-radius: 12px;
+padding: 25px 0 35px 0;
+}
+.skills-card{
+background-color: #f9fcff;  
+width: 23%;  
+border-radius: 12px;
+border: 1px solid #d6e4f0;
+float: left;
+margin-right: 2%;
+padding: 8px;
+box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+height: 150px;
+}
+.inner{
+margin-left: 20px;
+}
+.skills-card h3{
+color: #367fbb;
+}
+/* exp-section */
+.exp{
+background-color: #ffffff;
+padding: 25px 0 35px 0;
+border-radius: 12px;
+}
+.exp .cont{
+margin: auto;
+}
+.exp-card{
+background-color:#f4f6f9 ;
+padding: 20px;
+border-left:6px solid #0b65ad;
+border-radius: 12px;
+margin-top: 20px;
+}
+.exp-card .photo{
+width: 10%;
+background-color: #ffffff;
+border-radius: 12px;
+padding:  5px 5px;
+border: 2px solid #d6e4f0;
+float: left;
+margin-right: 25px;
+}
+.exp-card img{
+width: 100%;
+}
+/* contact-section */
+.contact{
+background-color:#1E4F82 ;
+margin: 30px auto;
+border-radius: 12px;
+padding: 20px 0 30px 0;
+}
+.contact h2{
+color: #ffffff;
+border-bottom: 2px solid #39689a;
+}
+.contact-p{
+color: #ffffff;
+}
+.contact-btn{
+background-color: rgba(255, 255, 255, 0.1);
+color: #ffffff;
+border-radius: 5px;
+margin-top: 10px;
+padding: 10px 15px;
+border: 0;
+margin-left: 3px;   
+margin-right: 3px;
+}
+/* last-section */
+.last-section{
+background-color:#021c38 ;
+margin: 30px auto;
+border-radius: 12px;
+padding: 20px 0 20px 0;
+text-align: center;
+color: #ffffff;
+}
+.last-section span{
+color: #7dd0f8;
+font-weight: bold;
+}
